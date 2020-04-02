@@ -96,8 +96,11 @@ footer {
 
 }
 
+#mid {
+    text-align: center;
+}
 .imgmain {
-    width: 100%;
+    width: 70%;
 }
 .ulist {
     font-size: max(1vw,15px);
